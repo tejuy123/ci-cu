@@ -1,7 +1,7 @@
 {
   "name":"ci-cu-demo",
-"version":"1.0.0",
-"scripts":{
-  "test":"echo'Running sample test...' "
+  "version":"1.0.0",
+  "scripts":{
+   "test":"echo'Running sample test...' "
 }
 }
